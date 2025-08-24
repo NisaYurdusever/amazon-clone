@@ -2,7 +2,7 @@
 
 <h2>Bu proje, HTML ve CSS kullanılarak oluşturulmuş bir Amazon sayfası klonudur. </h2>
 
-- Tammamen responsive tasarım
+- Tamamen responsive tasarım
 - Amazon'un ana sayfa arayüzüne benzer stil
 - HTML ve CSS ile sıfırdan oluşturulmuş bileşenler
 - Ekran boyutlarına duyarlı yerleşim
